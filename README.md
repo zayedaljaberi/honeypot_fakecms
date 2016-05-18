@@ -3,7 +3,8 @@ This honeypot made to attract Hackers to your admin or login page. Mostly, they 
 
 Author: Zayed AlJaberi
 Version: 1.0.0
-Status: Under progress
+
+
 DEMO: http://wesecure.ae/admin
 
 Update:
