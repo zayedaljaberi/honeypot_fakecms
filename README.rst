@@ -1,5 +1,5 @@
 =====================
-django-admin-honeypot
+wesecure_fakecms_honeypot
 =====================
 
 .. image:: https://travis-ci.org/dmpayton/django-admin-honeypot.svg?branch=develop
