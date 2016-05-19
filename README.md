@@ -58,7 +58,7 @@ Edit portal.php files (two files)
 ```sh
 $ Change the email given to your email
 ```
-
+To know the attacker location [Find the IP](https://www.iplocation.net)
 ### Security+
  - Always make sure to secure permission of the folders.
 - Never put your admin page on links like /admin , /wp-admin, /login..etc
