@@ -64,6 +64,7 @@ To know the attacker location [Find the IP](https://www.iplocation.net)
 - Never put your admin page on links like /admin , /wp-admin, /login..etc
 - Try to hide your admin portal page into several folders and different names
 - Take advantages of the .htaccess file for security. [Download PDF](https://goo.gl/JqZywC)
+- Get vaild SSL certificate for your website.
 
 
 ### Analytics| in 5 days we had more than 450+ ip
