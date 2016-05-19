@@ -26,6 +26,11 @@ Markdown that these information is important and useful to know better about who
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Downloads
+- Download using the website 
+- Download using terminal
+```sh
+git clone https://github.com/zayedaljaberi/honeypot_fakecms
+```
 
 you will have to download two folders: "admin" and "Error"
 
