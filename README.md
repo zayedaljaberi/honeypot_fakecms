@@ -69,7 +69,7 @@ To know the attacker location [Find the IP](https://www.iplocation.net)
 
 ### Analytics| in 5 days we had more than 450+ ip
 
-More details on [wesecure](http://wesecure.ae/honeypot_fakecms).
+More details on [weserv](http://wesecure.ae/weserv/honeypot_fakecms).
 
 License
 ----
