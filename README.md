@@ -4,7 +4,8 @@ This honeypot made to attract Hackers to your admin or login page. Mostly, they 
 
   - Version: 1.0
   - Update: Working in create mechanizem that generate and analyize automaticaly.
-  - Demo: http://wesecure.ae/honeypot_fakecms
+  - Demo: http://wesecure.ae/admin
+  - Official Site: http://wesecure.ae/honeypot_fakecms
 
 You will have:
   - information will be sent to your email.
