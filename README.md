@@ -23,7 +23,6 @@ Markdown that these information is important and useful to know better about who
 > - Smart Analytice that knows the attack type 
 
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Downloads
 - Download using the website 
@@ -45,8 +44,6 @@ Error Folder will have:
 * portal.php - Here it will send you an email saying that the attacker try to attempt an bruteforce attack.
 
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation
 
